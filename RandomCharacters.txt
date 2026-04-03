@@ -4,21 +4,21 @@
       "name": "Nebulax V8 Cracked",
       "status": "ONLINE",
       "lib_name": "libV8.so",
-      "download_url": "https://gitlab.com/ricolarv/tct/-/raw/main/libV8.so",
+      "download_url": "https://github.com/WHAT-IS-THIS-LOL/tctlibs/raw/refs/heads/main/libV8.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
       "name": "Yoshi Cracked",
       "status": "ONLINE",
       "lib_name": "libMSDKPIXTDM.so",
-      "download_url": "https://gitlab.com/ricolarv/tct/-/raw/main/libMSDKPIXTDM.so",
+      "download_url": "https://github.com/WHAT-IS-THIS-LOL/tctlibs/raw/refs/heads/main/libMSDKPIXTDM.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
       "name": "Xinn Cracked",
       "status": "ONLINE",
       "lib_name": "libXINNMOD.so",
-      "download_url": "https://gitlab.com/ricolarv/tct/-/raw/main/libXINNMOD.so",
+      "download_url": "https://github.com/WHAT-IS-THIS-LOL/tctlibs/raw/refs/heads/main/libXINNMOD.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
