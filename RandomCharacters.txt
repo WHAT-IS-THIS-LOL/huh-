@@ -1,25 +1,25 @@
 {
   "systems": [
     {
-      "name": "Crack Mod 1",
+      "name": "Nebulax V8 Cracked",
       "status": "ONLINE",
-      "lib_name": "libcod_mod_v2.so",
-      "download_url": "https://example.com/files/libcod_mod_v2.so",
-      "game_activity": "com.activision.callofduty.shooter.MainActivity"
+      "lib_name": "libV8.so",
+      "download_url": "https://gitlab.com/ricolarv/tct/-/raw/main/libV8.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "Crack Mod 2",
-      "status": "OFFLINE",
-      "lib_name": "libpubg_lite.so",
-      "download_url": "https://example.com/files/libpubg_lite.so",
-      "game_activity": "com.tencent.iglite.MainActivity"
+      "name": "Yoshi Cracked",
+      "status": "ONLINE",
+      "lib_name": "libMSDKPIXTDM.so",
+      "download_url": "https://gitlab.com/ricolarv/tct/-/raw/main/libMSDKPIXTDM.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "Crack Mod 3",
-      "status": "MAINTENANCE",
-      "lib_name": "libff_esp.so",
-      "download_url": "https://example.com/files/libff_esp.so",
-      "game_activity": "com.dts.freefireth.MainActivity"
+      "name": "Xinn Cracked",
+      "status": "ONLINE",
+      "lib_name": "libXINNMOD.so",
+      "download_url": "https://gitlab.com/ricolarv/tct/-/raw/main/libXINNMOD.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
 }
