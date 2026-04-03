@@ -1,26 +1,25 @@
 {
-  "menu_title": "SYSTEM SELECT",
   "systems": [
     {
-      "name": "NEBULAX V8 CRACKED",
+      "name": "Crack Mod 1",
       "status": "ONLINE",
-      "lib_name": "libTCT.so",
-      "download_url": "https://panel.com/libTCT.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+      "lib_name": "libcod_mod_v2.so",
+      "download_url": "https://example.com/files/libcod_mod_v2.so",
+      "game_activity": "com.activision.callofduty.shooter.MainActivity"
     },
     {
-      "name": "YOSHI CONTAINER CRACKED",
-      "status": "ONLINE",
-      "lib_name": "libtranquility.so",
-      "download_url": "https://panel.com/libTCT.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+      "name": "Crack Mod 2",
+      "status": "OFFLINE",
+      "lib_name": "libpubg_lite.so",
+      "download_url": "https://example.com/files/libpubg_lite.so",
+      "game_activity": "com.tencent.iglite.MainActivity"
     },
     {
-      "name": "XINN INTERNAL CRACKED",
-      "status": "ONLINE",
-      "lib_name": "libtranquility.so",
-      "download_url": "https://panel.com/libTCT.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+      "name": "Crack Mod 3",
+      "status": "MAINTENANCE",
+      "lib_name": "libff_esp.so",
+      "download_url": "https://example.com/files/libff_esp.so",
+      "game_activity": "com.dts.freefireth.MainActivity"
     }
   ]
 }
