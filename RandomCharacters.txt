@@ -20,6 +20,14 @@
       "lib_name": "libXINNMOD.so",
       "download_url": "https://github.com/WHAT-IS-THIS-LOL/tctlibs/raw/refs/heads/main/libXINNMOD.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    }
+    },
+    {
+      "name": "Vertex Cracked",
+      "status": "ONLINE",
+      "lib_name": "libVertex.so",
+      "download_url": "https://github.com/WHAT-IS-THIS-LOL/tctlibs/raw/refs/heads/main/libVertex.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+
   ]
 }
